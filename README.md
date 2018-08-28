@@ -11,17 +11,19 @@ Given a pair of sentences, determine whether they refer to the same intent or no
 
 
 ## Data preparation:
-Tokenization
-Padding
-Embedding matrix preparation
+- Tokenization
+- Padding
+- Embedding matrix preparation
 
 
 
 ## Models:
-CNN:		1D-CNN
+CNN:
+- 1D-CNN
 
-RNN:		LSTM
-		Bidirectional LSTM
+RNN:
+- LSTM
+- Bidirectional LSTM
 
 
 
